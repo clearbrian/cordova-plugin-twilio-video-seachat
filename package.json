@@ -8,4 +8,5 @@
         "ios"
     ],
     "engines": {}
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
